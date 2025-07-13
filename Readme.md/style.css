@@ -1,1 +1,36 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    color: #333;
+}
 
+h1 {
+    color: #007acc;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+img {
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px #aaa;
+}
+
+a {
+    color: #e91e63;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+}
